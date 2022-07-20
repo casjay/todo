@@ -10,3 +10,4 @@
 [ ] add count to todo - grep -nc ^ $TODO_HOME/  
 [ ] Fix gen-script findfile  
 [ ] Add github release to pkmgr  
+[ ] Fix gen-script copy function to create dir  
