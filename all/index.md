@@ -15,3 +15,4 @@
 [ ] Fix pkmgr search  
 [ ] Fix gen-script copy function to create dir  
 
+[ ] Fix/Update gitcommit/git-changlog  
