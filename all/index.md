@@ -13,3 +13,5 @@
 [ ] Fix spelling of available in @casjay-dotfiles/scripts/templates/man  
 [ ] Fix color output_2 in @casjay-dotfiles/scripts/templates  
 [ ] Fix pkmgr search  
+[ ] Fix gen-script copy function to create dir  
+
