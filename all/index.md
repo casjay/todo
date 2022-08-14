@@ -10,3 +10,6 @@
 [ ] add count to todo - grep -nc ^ $TODO_HOME/  
 [ ] Fix gen-script findfile  
 [ ] Add github release to pkmgr  
+[ ] Fix spelling of available in @casjay-dotfiles/scripts/templates/man  
+[ ] Fix color output_2 in @casjay-dotfiles/scripts/templates  
+[ ] Fix pkmgr search  
