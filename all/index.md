@@ -13,7 +13,6 @@
 [ ] Fix gen-script new: set dir and name with basename and dirname  
 [ ] Fix grep commands in todo  
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
-[ ] Fix pkmgr search  
 [ ] Fix spellcheck aspell check  
 [ ] Fix spelling of available in @casjay-dotfiles/scripts/templates/man  
 [ ] Fix todo github import   
