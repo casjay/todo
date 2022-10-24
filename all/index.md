@@ -15,6 +15,5 @@
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
 [ ] Fix spellcheck aspell check  
 [ ] Fix spelling of available in @casjay-dotfiles/scripts/templates/man  
-[ ] Fix todo github import   
 [ ] Fix/Update gitcommit/git-changlog  
 [ ] Fix version functions in @casjay-dotfiles/scripts  
