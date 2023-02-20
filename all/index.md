@@ -1,5 +1,6 @@
 # TODO list  
 
+[ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
 [ ] add count to todo - grep -nc ^ $TODO_HOME/  
 [ ] Add diff: git diff HEAD^ HEAD -- file|grep '@@'|head -n1
