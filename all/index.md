@@ -18,3 +18,4 @@
 [ ] Fix spelling of available in @casjay-dotfiles/scripts/templates/man  
 [ ] Fix/Update gitcommit/git-changlog  
 [ ] Fix version functions in @casjay-dotfiles/scripts  
+[ ] setup todo to pull before everything else  
