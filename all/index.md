@@ -19,6 +19,7 @@
 [ ] Fix gen-script copy function to create dir  
 [ ] Fix gen-script findfile  
 [ ] Fix gen-script new: set dir and name with basename and dirname  
+[ ] fix gitadmin delete
 [ ] Fix grep commands in todo  
 [ ] fix misc/bin/datauri %s error message  
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
