@@ -30,4 +30,3 @@
 [ ] Refactor devenmgr srcipt and add more projects
 [ ] Remove i-debug from desktopmgr/i3
 [ ] remove obsolete packages from pkmgr/centos  
-[ ] setup todo to pull before everything else  
