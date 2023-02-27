@@ -30,3 +30,4 @@
 [ ] Refactor devenmgr srcipt and add more projects
 [ ] Remove i-debug from desktopmgr/i3
 [ ] remove obsolete packages from pkmgr/centos  
+[ ] Fix gen-script backup config to move .bak to date.bak  
