@@ -31,3 +31,4 @@
 [ ] Remove i-debug from desktopmgr/i3
 [ ] remove obsolete packages from pkmgr/centos  
 [ ] Fix gen-script backup config to move .bak to date.bak  
+[ ] update script to update all versions to current var='filename |grep [0-9][0-9][0-9][0-9]-git' sed -i 'var' 'file'
