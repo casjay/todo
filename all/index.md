@@ -34,3 +34,4 @@
 [ ] update script to update all versions to current var='filename |grep [0-9][0-9][0-9][0-9]-git' sed -i 'var' 'file'
 [ ] add disable option to jykell template
 [ ] fix gen-dockerfile/gen-script output messages to say creating name and created file location
+[ ] fix scratchpad editor  
