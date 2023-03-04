@@ -35,3 +35,4 @@
 [ ] add disable option to jykell template
 [ ] fix gen-dockerfile/gen-script output messages to say creating name and created file location
 [ ] fix scratchpad editor  
+[ ] fix tmux-new/run_options logging script  
