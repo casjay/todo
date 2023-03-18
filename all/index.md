@@ -37,3 +37,4 @@
 [ ] fix scratchpad editor  
 [ ] fix tmux-new/run_options logging script  
 [ ] Fix ENV_PORTS in dockermgr template  
+[ ] add repo url to gitadmin migrate  
