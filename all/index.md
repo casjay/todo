@@ -22,8 +22,6 @@
 [ ] Fix grep commands in todo  
 [ ] fix misc/bin/datauri %s error message  
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
-[ ] fix php.ini fix.pathinfo
-[ ] Fix spelling of available in @casjay-dotfiles/scripts/templates/man  
 [ ] Fix ssh_key message in centos template
 [ ] Fix/Update gitcommit/git-changlog  
 [ ] Fix version functions in @casjay-dotfiles/scripts  
@@ -31,11 +29,5 @@
 [ ] Remove i-debug from desktopmgr/i3
 [ ] remove obsolete packages from pkmgr/centos  
 [ ] Fix gen-script backup config to move .bak to date.bak  
-[ ] update script to update all versions to current var='filename |grep [0-9][0-9][0-9][0-9]-git' sed -i 'var' 'file'
 [ ] add disable option to jykell template
 [ ] fix gen-dockerfile/gen-script output messages to say creating name and created file location
-[ ] fix scratchpad editor  
-[ ] fix tmux-new/run_options logging script  
-[ ] Fix ENV_PORTS in dockermgr template  
-[ ] add repo url to gitadmin migrate  
-[ ] fix null description in gitadmin/migrate  
