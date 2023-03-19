@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sun Mar 19 06:21:33 PM EDT 2023
+# Archived TODOs  -  Sun Mar 19 06:35:05 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -34,5 +34,8 @@
 [ ] Update systemmgr install scripts  
 [ ] Update todo archiving  
 [x] fix autostart.sh for desktopmgr/*
+[x] Fix color output_2 in @casjay-dotfiles/scripts/templates  
+[x] fix gen-html copy file message
+[x] Fix grep commands in todo  
 [x] fix wallpaper manager not rotating on xmonad
 [x] Update todo archiving  
