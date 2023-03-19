@@ -1,9 +1,5 @@
-# Archived TODOs  -  Sun Mar 19 06:17:01 PM EDT 2023
+# Archived TODOs  -  Sun Mar 19 06:21:33 PM EDT 2023
 
-05:48:31
-05:49:57
-19
-2023
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
 [ ] add count to todo - grep -nc ^ $TODO_HOME/  
@@ -15,7 +11,6 @@
 [ ] Create django image
 [ ] Create kvmmgr script to automate installs  
 [ ] Create laravel image
-EDT
 [ ] Fix color output_2 in @casjay-dotfiles/scripts/templates  
 [ ] Fix docker ca image scripts
 [ ] Fix docker image html templates and add DocRoot to index pages
@@ -33,8 +28,6 @@ EDT
 [ ] Fix ssh_key message in centos template
 [ ] Fix/Update gitcommit/git-changlog  
 [ ] Fix version functions in @casjay-dotfiles/scripts  
-Mar
-PM
 [ ] Refactor devenmgr srcipt and add more projects
 [ ] Remove i-debug from desktopmgr/i3
 [ ] remove obsolete packages from pkmgr/centos  
