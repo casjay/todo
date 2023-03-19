@@ -1,4 +1,4 @@
-# My TODO list  -  Sun Mar 19 05:51:27 PM EDT 2023
+# My TODO list  -  Sun Mar 19 06:02:04 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
