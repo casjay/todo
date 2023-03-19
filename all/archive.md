@@ -1,18 +1,7 @@
-# Archived TODOs  -  Sun
-
-Mar
-
-19
-
-05:49:57
-
-PM
-
-EDT
-
-2023
+# Archived TODOs  -  Sun Mar 19 05:51:27 PM EDT 2023
 
 05:48:31
+05:49:57
 19
 2023
 [ ] add all commands to dockermgr script  
