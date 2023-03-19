@@ -31,3 +31,4 @@
 [ ] Fix gen-script backup config to move .bak to date.bak  
 [ ] add disable option to jykell template
 [ ] fix gen-dockerfile/gen-script output messages to say creating name and created file location
+[ ] Update systemmgr install scripts  
