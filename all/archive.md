@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sun Mar 19 06:35:05 PM EDT 2023
+# Archived TODOs  -  Mon Mar 20 12:27:04 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -24,6 +24,7 @@
 [ ] Fix gen-script new: set dir and name with basename and dirname  
 [ ] Fix grep commands in todo  
 [ ] fix misc/bin/datauri %s error message  
+[ ] fix nginx http proxy port in dockermgr install script  
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
 [ ] Fix ssh_key message in centos template
 [ ] Fix/Update gitcommit/git-changlog  
