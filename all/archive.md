@@ -1,4 +1,4 @@
-# Archived TODOs  -  Mon Mar 20 12:27:04 AM EDT 2023
+# Archived TODOs  -  Mon Mar 20 10:27:35 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -32,6 +32,7 @@
 [ ] Refactor devenmgr srcipt and add more projects
 [ ] Remove i-debug from desktopmgr/i3
 [ ] remove obsolete packages from pkmgr/centos  
+[ ] Rewrite buildx to get image name and version from docker file  
 [ ] Update systemmgr install scripts  
 [ ] Update todo archiving  
 [x] fix autostart.sh for desktopmgr/*
