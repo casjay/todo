@@ -1,4 +1,4 @@
-# Archived TODOs  -  Tue Mar 21 03:30:36 PM EDT 2023
+# Archived TODOs  -  Tue Mar 21 03:31:48 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -8,6 +8,7 @@
 [ ] Add github release to pkmgr  
 [ ] Add reboot prompt to setup_kvm  
 [ ] Add sanity check to gen-completion  
+[ ] Add temp volume to dockermgr/prune  
 [ ] Create django image
 [ ] Create kvmmgr script to automate installs  
 [ ] Create laravel image
