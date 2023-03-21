@@ -1,4 +1,4 @@
-# Archived TODOs  -  Mon Mar 20 10:27:35 PM EDT 2023
+# Archived TODOs  -  Tue Mar 21 03:30:36 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -29,6 +29,7 @@
 [ ] Fix ssh_key message in centos template
 [ ] Fix/Update gitcommit/git-changlog  
 [ ] Fix version functions in @casjay-dotfiles/scripts  
+[ ] Fix weather location/VARIABLES  
 [ ] Refactor devenmgr srcipt and add more projects
 [ ] Remove i-debug from desktopmgr/i3
 [ ] remove obsolete packages from pkmgr/centos  
