@@ -1,4 +1,4 @@
-# Completed TODOs  -  Mon Mar 20 10:27:35 PM EDT 2023
+# Completed TODOs  -  Tue Mar 21 03:30:36 PM EDT 2023
 
 [x] fix autostart.sh for desktopmgr/*
 [x] Fix color output_2 in @casjay-dotfiles/scripts/templates  
