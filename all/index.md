@@ -1,4 +1,4 @@
-# My TODO list  -  Mon Mar 20 12:27:04 AM EDT 2023
+# My TODO list  -  Mon Mar 20 10:27:35 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -30,3 +30,4 @@
 [ ] fix gen-dockerfile/gen-script output messages to say creating name and created file location
 [ ] Update systemmgr install scripts  
 [ ] fix nginx http proxy port in dockermgr install script  
+[ ] Rewrite buildx to get image name and version from docker file  
