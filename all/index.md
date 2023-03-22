@@ -1,4 +1,4 @@
-# My TODO list  -  Wed Mar 22 11:11:52 AM EDT 2023
+# My TODO list  -  Wed Mar 22 11:12:13 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -21,3 +21,4 @@
 [ ] Rewrite buildx to get image name and version from docker file  
 [ ] Add write to usb in latest iso  
 [ ] Add multiboot usb to usb-writer script  
+[ ] Fix todo git import error  
