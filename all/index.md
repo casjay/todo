@@ -1,4 +1,4 @@
-# My TODO list  -  Tue Mar 21 03:31:48 PM EDT 2023
+# My TODO list  -  Wed Mar 22 12:32:04 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -31,5 +31,4 @@
 [ ] Update systemmgr install scripts  
 [ ] fix nginx http proxy port in dockermgr install script  
 [ ] Rewrite buildx to get image name and version from docker file  
-[ ] Fix weather location/VARIABLES  
 [ ] Add temp volume to dockermgr/prune  
