@@ -1,4 +1,4 @@
-# Archived TODOs  -  Wed Mar 22 11:09:42 AM EDT 2023
+# Archived TODOs  -  Wed Mar 22 11:11:52 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -6,6 +6,7 @@
 [ ] Add diff: git diff HEAD^ HEAD -- file|grep '@@'|head -n1
 [ ] add disable option to jykell template
 [ ] Add github release to pkmgr  
+[ ] Add multiboot usb to usb-writer script  
 [ ] Add reboot prompt to setup_kvm  
 [ ] Add sanity check to gen-completion  
 [ ] Add temp volume to dockermgr/prune  
