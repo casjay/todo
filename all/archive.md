@@ -1,4 +1,4 @@
-# Archived TODOs  -  Wed Mar 22 11:11:52 AM EDT 2023
+# Archived TODOs  -  Wed Mar 22 11:12:13 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -30,6 +30,7 @@
 [ ] fix nginx http proxy port in dockermgr install script  
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
 [ ] Fix ssh_key message in centos template
+[ ] Fix todo git import error  
 [ ] Fix/Update gitcommit/git-changlog  
 [ ] Fix version functions in @casjay-dotfiles/scripts  
 [ ] Fix weather location/VARIABLES  
