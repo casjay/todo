@@ -1,4 +1,4 @@
-# Archived TODOs  -  Tue Mar 21 03:31:48 PM EDT 2023
+# Archived TODOs  -  Wed Mar 22 12:32:04 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -42,4 +42,5 @@
 [x] fix gen-html copy file message
 [x] Fix grep commands in todo  
 [x] fix wallpaper manager not rotating on xmonad
+[x] Fix weather location/VARIABLES  
 [x] Update todo archiving  
