@@ -1,4 +1,4 @@
-# My TODO list  -  Fri Mar 24 01:39:34 AM EDT 2023
+# My TODO list  -  Fri Mar 24 05:28:48 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -23,3 +23,4 @@
 [ ] Add multiboot usb to usb-writer script  
 [ ] Fix todo git import error  
 [ ] fix myssh/show config  
+[ ] fix dictionary no input  
