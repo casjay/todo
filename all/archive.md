@@ -1,4 +1,4 @@
-# Archived TODOs  -  Fri Mar 24 01:39:34 AM EDT 2023
+# Archived TODOs  -  Fri Mar 24 05:28:48 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -15,6 +15,7 @@
 [ ] Create kvmmgr script to automate installs  
 [ ] Create laravel image
 [ ] Fix color output_2 in @casjay-dotfiles/scripts/templates  
+[ ] fix dictionary no input  
 [ ] Fix docker ca image scripts
 [ ] Fix docker image html templates and add DocRoot to index pages
 [ ] Fix dockermgr readme variables
