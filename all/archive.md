@@ -1,4 +1,4 @@
-# Archived TODOs  -  Wed Mar 22 11:12:13 AM EDT 2023
+# Archived TODOs  -  Fri Mar 24 01:39:34 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -27,6 +27,7 @@
 [ ] Fix gen-script new: set dir and name with basename and dirname  
 [ ] Fix grep commands in todo  
 [ ] fix misc/bin/datauri %s error message  
+[ ] fix myssh/show config  
 [ ] fix nginx http proxy port in dockermgr install script  
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
 [ ] Fix ssh_key message in centos template
