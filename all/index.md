@@ -1,4 +1,4 @@
-# My TODO list  -  Fri Mar 24 05:30:35 PM EDT 2023
+# My TODO list  -  Sat Mar 25 04:50:32 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -15,13 +15,8 @@
 [ ] fix misc/bin/datauri %s error message  
 [ ] Fix/Update gitcommit/git-changlog  
 [ ] Refactor devenmgr srcipt and add more projects
-[ ] Fix gen-script backup config to move .bak to date.bak  
 [ ] add disable option to jykell template
 [ ] Update systemmgr install scripts  
-[ ] Rewrite buildx to get image name and version from docker file  
 [ ] Add write to usb in latest iso  
 [ ] Add multiboot usb to usb-writer script  
 [ ] Fix todo git import error  
-[ ] fix myssh/show config  
-[ ] fix dictionary no input  
-[ ] fix shortenurl timeout  
