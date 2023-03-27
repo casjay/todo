@@ -1,4 +1,4 @@
-# My TODO list  -  Sat Mar 25 04:50:32 PM EDT 2023
+# My TODO list  -  Mon Mar 27 07:44:18 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -20,3 +20,4 @@
 [ ] Add write to usb in latest iso  
 [ ] Add multiboot usb to usb-writer script  
 [ ] Fix todo git import error  
+[ ] fix proxmox-cli ssh connection error
