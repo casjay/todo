@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Mar 25 04:50:32 PM EDT 2023
+# Archived TODOs  -  Mon Mar 27 07:44:18 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -31,6 +31,7 @@
 [ ] fix myssh/show config  
 [ ] fix nginx http proxy port in dockermgr install script  
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
+[ ] fix proxmox-cli ssh connection error
 [ ] fix shortenurl timeout  
 [ ] Fix ssh_key message in centos template
 [ ] Fix todo git import error  
