@@ -1,10 +1,11 @@
-# Archived TODOs  -  Mon Mar 27 07:44:18 PM EDT 2023
+# Archived TODOs  -  Sun Apr  2 01:28:15 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
 [ ] add count to todo - grep -nc ^ $TODO_HOME/  
 [ ] Add diff: git diff HEAD^ HEAD -- file|grep '@@'|head -n1
 [ ] add disable option to jykell template
+[ ] add free space to dockermgr rm  
 [ ] Add github release to pkmgr  
 [ ] Add multiboot usb to usb-writer script  
 [ ] Add reboot prompt to setup_kvm  
