@@ -1,4 +1,4 @@
-# My TODO list  -  Sun Apr  2 01:28:15 AM EDT 2023
+# My TODO list  -  Sun Apr  2 06:14:54 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -22,3 +22,4 @@
 [ ] Fix todo git import error  
 [ ] fix proxmox-cli ssh connection error
 [ ] add free space to dockermgr rm  
+[ ] modify gitcommit to show comment before file  
