@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sun Apr  2 06:14:54 PM EDT 2023
+# Archived TODOs  -  Wed Apr  5 11:40:51 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -28,6 +28,7 @@
 [ ] Fix gen-script findfile  
 [ ] Fix gen-script new: set dir and name with basename and dirname  
 [ ] Fix grep commands in todo  
+[ ] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
 [ ] fix misc/bin/datauri %s error message  
 [ ] fix myssh/show config  
 [ ] fix nginx http proxy port in dockermgr install script  
