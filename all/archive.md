@@ -1,4 +1,4 @@
-# Archived TODOs  -  Wed Apr  5 11:40:51 AM EDT 2023
+# Archived TODOs  -  Fri Apr  7 12:00:17 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -8,6 +8,7 @@
 [ ] add free space to dockermgr rm  
 [ ] Add github release to pkmgr  
 [ ] Add multiboot usb to usb-writer script  
+[ ] add passwd root to gistmgr/archonarm/README.md  
 [ ] Add reboot prompt to setup_kvm  
 [ ] Add sanity check to gen-completion  
 [ ] Add temp volume to dockermgr/prune  
