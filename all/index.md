@@ -1,4 +1,4 @@
-# My TODO list  -  Sat Apr  8 08:25:05 PM EDT 2023
+# My TODO list  -  Sat Apr  8 08:48:37 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -20,11 +20,5 @@
 [ ] Add write to usb in latest iso  
 [ ] Add multiboot usb to usb-writer script  
 [ ] Fix todo git import error  
-[ ] fix proxmox-cli ssh connection error
 [ ] add free space to dockermgr rm  
 [ ] modify gitcommit to show comment before file  
-[ ] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
-[ ] add passwd root to gistmgr/archonarm/README.md  
-[ ] fix gitadmin org url for auth users  
-[ ] todo gitignore  
-[ ] fix gitcommit: line 752: : No such file or directory  
