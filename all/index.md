@@ -1,4 +1,4 @@
-# My TODO list  -  Sat Apr  8 08:24:28 PM EDT 2023
+# My TODO list  -  Sat Apr  8 08:25:05 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -27,3 +27,4 @@
 [ ] add passwd root to gistmgr/archonarm/README.md  
 [ ] fix gitadmin org url for auth users  
 [ ] todo gitignore  
+[ ] fix gitcommit: line 752: : No such file or directory  
