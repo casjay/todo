@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Apr  8 08:25:05 PM EDT 2023
+# Archived TODOs  -  Sat Apr  8 08:48:37 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -51,6 +51,7 @@
 [ ] todo gitignore  
 [ ] Update systemmgr install scripts  
 [ ] Update todo archiving  
+[x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add reboot prompt to setup_kvm  
 [x] Add sanity check to gen-completion  
 [x] Add temp volume to dockermgr/prune  
@@ -63,10 +64,14 @@
 [x] fix gen-dockerfile/gen-script output messages to say creating name and created file location
 [x] fix gen-html copy file message
 [x] Fix gen-script backup config to move .bak to date.bak  
+[x] fix gitadmin org url for auth users  
+[x] fix gitcommit: line 752: : No such file or directory  
 [x] Fix grep commands in todo  
+[x] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
 [x] fix myssh/show config  
 [x] fix nginx http proxy port in dockermgr install script  
 [x] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
+[x] fix proxmox-cli ssh connection error
 [x] fix shortenurl timeout  
 [x] Fix ssh_key message in centos template
 [x] Fix version functions in @casjay-dotfiles/scripts  
@@ -75,4 +80,5 @@
 [x] Remove i-debug from desktopmgr/i3
 [x] remove obsolete packages from pkmgr/centos  
 [x] Rewrite buildx to get image name and version from docker file  
+[x] todo gitignore  
 [x] Update todo archiving  
