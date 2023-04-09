@@ -92,5 +92,5 @@ $RECYCLE.BIN/
 **/.no_git
 
 # Ignore temp files
-\*/*.tmp
+**/*.tmp
 
