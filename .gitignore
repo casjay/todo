@@ -95,3 +95,5 @@ $RECYCLE.BIN/
 \*/*.tmp
 # Ignore temp files
 \*/*.tmp
+# Ignore temp files
+\*/*.tmp
