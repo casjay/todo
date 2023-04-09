@@ -1,4 +1,4 @@
-# Archived TODOs  -  Fri Apr  7 12:00:17 PM EDT 2023
+# Archived TODOs  -  Sat Apr  8 08:23:25 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -28,6 +28,7 @@
 [ ] Fix gen-script copy function to create dir  
 [ ] Fix gen-script findfile  
 [ ] Fix gen-script new: set dir and name with basename and dirname  
+[ ] fix gitadmin org url for auth users  
 [ ] Fix grep commands in todo  
 [ ] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
 [ ] fix misc/bin/datauri %s error message  
