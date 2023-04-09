@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Apr  8 08:23:25 PM EDT 2023
+# Archived TODOs  -  Sat Apr  8 08:24:28 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -47,6 +47,7 @@
 [ ] Remove i-debug from desktopmgr/i3
 [ ] remove obsolete packages from pkmgr/centos  
 [ ] Rewrite buildx to get image name and version from docker file  
+[ ] todo gitignore  
 [ ] Update systemmgr install scripts  
 [ ] Update todo archiving  
 [x] Add reboot prompt to setup_kvm  
