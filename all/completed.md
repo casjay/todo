@@ -1,4 +1,4 @@
-# Completed TODOs  -  Sat Apr  8 08:48:37 PM EDT 2023
+# Completed TODOs  -  Sat Apr  8 09:00:24 PM EDT 2023
 
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add reboot prompt to setup_kvm  
@@ -23,6 +23,7 @@
 [x] fix proxmox-cli ssh connection error
 [x] fix shortenurl timeout  
 [x] Fix ssh_key message in centos template
+[x] Fix todo git import error  
 [x] Fix version functions in @casjay-dotfiles/scripts  
 [x] fix wallpaper manager not rotating on xmonad
 [x] Fix weather location/VARIABLES  
