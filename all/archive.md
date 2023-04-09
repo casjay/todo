@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Apr  8 08:48:37 PM EDT 2023
+# Archived TODOs  -  Sat Apr  8 09:00:24 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -44,6 +44,7 @@
 [ ] Fix version functions in @casjay-dotfiles/scripts  
 [ ] Fix weather location/VARIABLES  
 [ ] modify gitcommit to show comment before file  
+[ ] Refactor devenmgr script and add more projects
 [ ] Refactor devenmgr srcipt and add more projects
 [ ] Remove i-debug from desktopmgr/i3
 [ ] remove obsolete packages from pkmgr/centos  
@@ -74,6 +75,7 @@
 [x] fix proxmox-cli ssh connection error
 [x] fix shortenurl timeout  
 [x] Fix ssh_key message in centos template
+[x] Fix todo git import error  
 [x] Fix version functions in @casjay-dotfiles/scripts  
 [x] fix wallpaper manager not rotating on xmonad
 [x] Fix weather location/VARIABLES  
