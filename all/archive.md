@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Apr  8 08:24:28 PM EDT 2023
+# Archived TODOs  -  Sat Apr  8 08:25:05 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -29,6 +29,7 @@
 [ ] Fix gen-script findfile  
 [ ] Fix gen-script new: set dir and name with basename and dirname  
 [ ] fix gitadmin org url for auth users  
+[ ] fix gitcommit: line 752: : No such file or directory  
 [ ] Fix grep commands in todo  
 [ ] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
 [ ] fix misc/bin/datauri %s error message  
