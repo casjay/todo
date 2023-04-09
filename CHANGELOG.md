@@ -1,3 +1,11 @@
+#### Changelog: 2023-04-08 at 20:40:53  
+
+.gitignore : Fixed 🚀  
+  
+#### End of changes for  - 2023-04-08 at 20:40:53  
+  
+----  
+  
 #### Changelog: 2023-04-08 at 20:27:51  
 
 todo.conf : Modified - todo settings 🚀  

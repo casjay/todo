@@ -93,7 +93,3 @@ $RECYCLE.BIN/
 
 # Ignore temp files
 \*/*.tmp
-# Ignore temp files
-\*/*.tmp
-# Ignore temp files
-\*/*.tmp
