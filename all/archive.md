@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Apr  8 09:00:24 PM EDT 2023
+# Archived TODOs  -  Mon Apr 10 10:32:19 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -9,6 +9,7 @@
 [ ] Add github release to pkmgr  
 [ ] Add multiboot usb to usb-writer script  
 [ ] add passwd root to gistmgr/archonarm/README.md  
+[ ] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
 [ ] Add reboot prompt to setup_kvm  
 [ ] Add sanity check to gen-completion  
 [ ] Add temp volume to dockermgr/prune  
