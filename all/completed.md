@@ -1,4 +1,4 @@
-# Completed TODOs  -  Sat Apr  8 09:00:24 PM EDT 2023
+# Completed TODOs  -  Mon Apr 10 10:32:19 PM EDT 2023
 
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add reboot prompt to setup_kvm  
