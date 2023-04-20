@@ -1,4 +1,4 @@
-# My TODO list  -  Mon Apr 10 10:32:19 PM EDT 2023
+# My TODO list  -  Thu Apr 20 06:54:52 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -9,16 +9,9 @@
 [ ] Create kvmmgr script to automate installs  
 [ ] Create laravel image
 [ ] Fix docker ca image scripts
-[ ] Fix gen-script copy function to create dir  
-[ ] Fix gen-script findfile  
-[ ] Fix gen-script new: set dir and name with basename and dirname  
 [ ] fix misc/bin/datauri %s error message  
-[ ] Fix/Update gitcommit/git-changlog  
 [ ] Refactor devenmgr script and add more projects
 [ ] add disable option to jykell template
 [ ] Update systemmgr install scripts  
 [ ] Add write to usb in latest iso  
 [ ] Add multiboot usb to usb-writer script  
-[ ] add free space to dockermgr rm  
-[ ] modify gitcommit to show comment before file  
-[ ] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  

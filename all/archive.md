@@ -1,4 +1,4 @@
-# Archived TODOs  -  Mon Apr 10 10:32:19 PM EDT 2023
+# Archived TODOs  -  Thu Apr 20 06:54:52 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -53,7 +53,9 @@
 [ ] todo gitignore  
 [ ] Update systemmgr install scripts  
 [ ] Update todo archiving  
+[x] add free space to dockermgr rm  
 [x] add passwd root to gistmgr/archonarm/README.md  
+[x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
 [x] Add reboot prompt to setup_kvm  
 [x] Add sanity check to gen-completion  
 [x] Add temp volume to dockermgr/prune  
@@ -66,6 +68,9 @@
 [x] fix gen-dockerfile/gen-script output messages to say creating name and created file location
 [x] fix gen-html copy file message
 [x] Fix gen-script backup config to move .bak to date.bak  
+[x] Fix gen-script copy function to create dir  
+[x] Fix gen-script findfile  
+[x] Fix gen-script new: set dir and name with basename and dirname  
 [x] fix gitadmin org url for auth users  
 [x] fix gitcommit: line 752: : No such file or directory  
 [x] Fix grep commands in todo  
@@ -77,9 +82,11 @@
 [x] fix shortenurl timeout  
 [x] Fix ssh_key message in centos template
 [x] Fix todo git import error  
+[x] Fix/Update gitcommit/git-changlog  
 [x] Fix version functions in @casjay-dotfiles/scripts  
 [x] fix wallpaper manager not rotating on xmonad
 [x] Fix weather location/VARIABLES  
+[x] modify gitcommit to show comment before file  
 [x] Remove i-debug from desktopmgr/i3
 [x] remove obsolete packages from pkmgr/centos  
 [x] Rewrite buildx to get image name and version from docker file  
