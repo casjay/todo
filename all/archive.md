@@ -1,4 +1,4 @@
-# Archived TODOs  -  Thu Apr 20 06:54:52 PM EDT 2023
+# Archived TODOs  -  Thu Apr 20 07:23:04 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -23,6 +23,7 @@
 [ ] Fix docker image html templates and add DocRoot to index pages
 [ ] Fix dockermgr readme variables
 [ ] Fix dockermgr src readme template
+[ ] fix gen-* copy template messages  
 [ ] fix gen-dockerfile/gen-script output messages to say creating name and created file location
 [ ] fix gen-html copy file message
 [ ] Fix gen-script backup config to move .bak to date.bak  
