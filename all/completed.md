@@ -1,4 +1,4 @@
-# Completed TODOs  -  Thu Apr 20 07:23:04 PM EDT 2023
+# Completed TODOs  -  Sat 22 Apr 2023 01:02:25 PM EDT
 
 [x] add free space to dockermgr rm  
 [x] add passwd root to gistmgr/archonarm/README.md  
