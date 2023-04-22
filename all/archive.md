@@ -1,4 +1,4 @@
-# Archived TODOs  -  Thu Apr 20 07:23:04 PM EDT 2023
+# Archived TODOs  -  Sat Apr 22 02:37:13 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -46,6 +46,7 @@
 [ ] Fix version functions in @casjay-dotfiles/scripts  
 [ ] Fix weather location/VARIABLES  
 [ ] modify gitcommit to show comment before file  
+[ ] pull  
 [ ] Refactor devenmgr script and add more projects
 [ ] Refactor devenmgr srcipt and add more projects
 [ ] Remove i-debug from desktopmgr/i3
