@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Apr 22 02:37:13 PM EDT 2023
+# Archived TODOs  -  Sat Apr 22 02:40:41 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -54,6 +54,7 @@
 [ ] Rewrite buildx to get image name and version from docker file  
 [ ] todo gitignore  
 [ ] Update systemmgr install scripts  
+[ ] updatetodo  
 [ ] Update todo archiving  
 [x] add free space to dockermgr rm  
 [x] add passwd root to gistmgr/archonarm/README.md  
