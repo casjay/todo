@@ -1,4 +1,4 @@
-# My TODO list  -  Sat Apr 22 02:41:04 PM EDT 2023
+# My TODO list  -  Sun Apr 23 04:36:29 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -16,3 +16,4 @@
 [ ] Add write to usb in latest iso  
 [ ] Add multiboot usb to usb-writer script  
 [ ] fix gen-* copy template messages  
+[ ] Add template repo env to gen-* scripts  

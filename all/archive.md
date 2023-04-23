@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Apr 22 02:41:04 PM EDT 2023
+# Archived TODOs  -  Sun Apr 23 04:36:29 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -12,6 +12,7 @@
 [ ] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
 [ ] Add reboot prompt to setup_kvm  
 [ ] Add sanity check to gen-completion  
+[ ] Add template repo env to gen-* scripts  
 [ ] Add temp volume to dockermgr/prune  
 [ ] Add write to usb in latest iso  
 [ ] Create django image
