@@ -1,8 +1,9 @@
-# Archived TODOs  -  Sun Apr 23 04:36:29 PM EDT 2023
+# Archived TODOs  -  Mon Apr 24 12:19:03 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
 [ ] add count to todo - grep -nc ^ $TODO_HOME/  
+[ ] Add db to tmux-new node  
 [ ] Add diff: git diff HEAD^ HEAD -- file|grep '@@'|head -n1
 [ ] add disable option to jykell template
 [ ] add free space to dockermgr rm  
