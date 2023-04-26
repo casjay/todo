@@ -1,4 +1,4 @@
-# Archived TODOs  -  Tue Apr 25 04:28:12 AM EDT 2023
+# Archived TODOs  -  Tue Apr 25 08:25:32 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -55,6 +55,7 @@
 [ ] remove obsolete packages from pkmgr/centos  
 [ ] Re-read mgr templates  
 [ ] Rewrite buildx to get image name and version from docker file  
+[ ] set gitignore default  
 [ ] todo gitignore  
 [ ] Update systemmgr install scripts  
 [ ] updatetodo  

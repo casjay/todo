@@ -1,4 +1,4 @@
-# My TODO list  -  Tue Apr 25 04:28:12 AM EDT 2023
+# My TODO list  -  Tue Apr 25 08:25:32 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -19,3 +19,4 @@
 [ ] Add template repo env to gen-* scripts  
 [ ] Add db to tmux-new node  
 [ ] Re-read mgr templates  
+[ ] set gitignore default  
