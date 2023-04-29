@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Apr 29 02:07:11 AM EDT 2023
+# Archived TODOs  -  Sat Apr 29 02:07:53 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -57,6 +57,7 @@
 [ ] Rewrite buildx to get image name and version from docker file  
 [ ] set gitignore default  
 [ ] todo gitignore  
+[ ] update fish env variables  
 [ ] Update systemmgr install scripts  
 [ ] updatetodo  
 [ ] Update todo archiving  
