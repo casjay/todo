@@ -1,4 +1,4 @@
-# Archived TODOs  -  Tue Apr 25 11:47:29 PM EDT 2023
+# Archived TODOs  -  Sat Apr 29 02:07:11 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
