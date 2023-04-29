@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Apr 29 02:07:53 AM EDT 2023
+# Archived TODOs  -  Sat Apr 29 02:12:40 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -62,6 +62,7 @@
 [ ] updatetodo  
 [ ] Update todo archiving  
 [ ] work on neovim configuration  
+[x] Add db to tmux-new node  
 [x] add free space to dockermgr rm  
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  

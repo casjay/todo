@@ -1,5 +1,6 @@
-# Completed TODOs  -  Sat Apr 29 02:07:53 AM EDT 2023
+# Completed TODOs  -  Sat Apr 29 02:12:40 AM EDT 2023
 
+[x] Add db to tmux-new node  
 [x] add free space to dockermgr rm  
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
