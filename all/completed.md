@@ -1,6 +1,7 @@
-# Completed TODOs  -  Tue May  2 12:25:25 PM EDT 2023
+# Completed TODOs  -  Tue May  2 12:31:04 PM EDT 2023
 
 [x] Add db to tmux-new node  
+[x] add disable option to jykell template
 [x] add free space to dockermgr rm  
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
@@ -40,6 +41,8 @@
 [x] modify gitcommit to show comment before file  
 [x] Remove i-debug from desktopmgr/i3
 [x] remove obsolete packages from pkmgr/centos  
+[x] Re-read mgr templates  
 [x] Rewrite buildx to get image name and version from docker file  
+[x] set gitignore default  
 [x] todo gitignore  
 [x] Update todo archiving  

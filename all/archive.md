@@ -1,4 +1,4 @@
-# Archived TODOs  -  Tue May  2 12:25:25 PM EDT 2023
+# Archived TODOs  -  Tue May  2 12:31:04 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -64,11 +64,13 @@
 [ ] set gitignore default  
 [ ] todo gitignore  
 [ ] update fish env variables  
+[ ] update setup_powershell: https://learn.microsoft.com/en-us/powershell/scripting/install/install-other-linux?view=powershell-7.3  
 [ ] Update systemmgr install scripts  
 [ ] updatetodo  
 [ ] Update todo archiving  
 [ ] work on neovim configuration  
 [x] Add db to tmux-new node  
+[x] add disable option to jykell template
 [x] add free space to dockermgr rm  
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
@@ -108,6 +110,8 @@
 [x] modify gitcommit to show comment before file  
 [x] Remove i-debug from desktopmgr/i3
 [x] remove obsolete packages from pkmgr/centos  
+[x] Re-read mgr templates  
 [x] Rewrite buildx to get image name and version from docker file  
+[x] set gitignore default  
 [x] todo gitignore  
 [x] Update todo archiving  
