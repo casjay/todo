@@ -1,4 +1,4 @@
-# My TODO list  -  Sat Apr 29 02:12:40 AM EDT 2023
+# My TODO list  -  Tue May  2 12:25:25 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -21,3 +21,4 @@
 [ ] set gitignore default  
 [ ] work on neovim configuration  
 [ ] update fish env variables  
+[ ] https://learn.microsoft.com/en-us/powershell/scripting/install/install-other-linux?view=powershell-7.3  
