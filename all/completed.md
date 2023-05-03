@@ -1,4 +1,4 @@
-# Completed TODOs  -  Tue May  2 12:31:04 PM EDT 2023
+# Completed TODOs  -  Wed May  3 09:02:38 AM EDT 2023
 
 [x] Add db to tmux-new node  
 [x] add disable option to jykell template
@@ -45,4 +45,6 @@
 [x] Rewrite buildx to get image name and version from docker file  
 [x] set gitignore default  
 [x] todo gitignore  
+[x] update fish env variables  
+[x] update setup_powershell: https://learn.microsoft.com/en-us/powershell/scripting/install/install-other-linux?view=powershell-7.3  
 [x] Update todo archiving  
