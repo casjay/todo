@@ -1,4 +1,4 @@
-# Archived TODOs  -  Wed May  3 09:02:38 AM EDT 2023
+# Archived TODOs  -  Fri May  5 08:15:28 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -39,6 +39,7 @@
 [ ] fix gitcommit: line 752: : No such file or directory  
 [ ] Fix grep commands in todo  
 [ ] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
+[ ] Fix misc  
 [ ] fix misc/bin/datauri %s error message  
 [ ] fix myssh/show config  
 [ ] fix nginx http proxy port in dockermgr install script  
