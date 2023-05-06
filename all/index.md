@@ -1,4 +1,4 @@
-# My TODO list  -  Fri May  5 08:15:28 PM EDT 2023
+# My TODO list  -  Fri May  5 08:15:40 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -17,3 +17,4 @@
 [ ] Add template repo env to gen-* scripts  
 [ ] work on neovim configuration  
 [ ] Fix misc  
+[ ] Fix pkmgr/apt/misc python  
