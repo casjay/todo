@@ -1,4 +1,4 @@
-# Archived TODOs  -  Fri May  5 08:15:40 PM EDT 2023
+# Archived TODOs  -  Tue May  9 02:25:43 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -49,6 +49,7 @@
 [ ] Fix run_server command check  
 [ ] fix shortenurl timeout  
 [ ] Fix ssh_key message in centos template
+[ ] Fix sxhkd installer duplicates
 [ ] Fix todo git import error  
 [ ] Fix/Update gitcommit/git-changlog  
 [ ] Fix version functions in @casjay-dotfiles/scripts  
