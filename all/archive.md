@@ -1,4 +1,4 @@
-# Archived TODOs  -  Tue May  9 02:25:43 PM EDT 2023
+# Archived TODOs  -  Thu May 11 05:26:54 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -41,6 +41,7 @@
 [ ] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
 [ ] Fix misc  
 [ ] fix misc/bin/datauri %s error message  
+[ ] Fix misc copy-templates alias  
 [ ] fix myssh/show config  
 [ ] fix nginx http proxy port in dockermgr install script  
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
