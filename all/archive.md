@@ -1,4 +1,4 @@
-# Archived TODOs  -  Thu May 11 05:26:54 PM EDT 2023
+# Archived TODOs  -  Mon Jun 26 03:10:24 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -10,6 +10,7 @@
 [ ] add disable option to jykell template
 [ ] add free space to dockermgr rm  
 [ ] Add github release to pkmgr  
+[ ] Add local option to weather script  
 [ ] Add multiboot usb to usb-writer script  
 [ ] add passwd root to gistmgr/archonarm/README.md  
 [ ] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
