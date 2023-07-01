@@ -1,4 +1,4 @@
-# My TODO list  -  Sat Jul  1 06:22:47 PM EDT 2023
+# My TODO list  -  Sat Jul  1 06:23:37 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -22,3 +22,4 @@
 [ ] Fix misc copy-templates alias  
 [ ] Add local option to weather script  
 [ ] Fix myemail web addresses  
+[ ] Fix ytdv default settings  
