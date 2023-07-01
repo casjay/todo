@@ -1,4 +1,4 @@
-# Completed TODOs  -  Sat Jul  1 06:23:37 PM EDT 2023
+# Completed TODOs  -  Sat Jul  1 07:04:00 PM EDT 2023
 
 [x] Add db to tmux-new node  
 [x] add disable option to jykell template
@@ -38,6 +38,7 @@
 [x] Fix version functions in @casjay-dotfiles/scripts  
 [x] fix wallpaper manager not rotating on xmonad
 [x] Fix weather location/VARIABLES  
+[x] Fix ytdv default settings  
 [x] modify gitcommit to show comment before file  
 [x] Remove i-debug from desktopmgr/i3
 [x] remove obsolete packages from pkmgr/centos  

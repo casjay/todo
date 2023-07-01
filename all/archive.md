@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Jul  1 06:23:37 PM EDT 2023
+# Archived TODOs  -  Sat Jul  1 07:04:00 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -114,6 +114,7 @@
 [x] Fix version functions in @casjay-dotfiles/scripts  
 [x] fix wallpaper manager not rotating on xmonad
 [x] Fix weather location/VARIABLES  
+[x] Fix ytdv default settings  
 [x] modify gitcommit to show comment before file  
 [x] Remove i-debug from desktopmgr/i3
 [x] remove obsolete packages from pkmgr/centos  
