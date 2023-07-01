@@ -1,4 +1,4 @@
-# Archived TODOs  -  Mon Jun 26 03:10:24 PM EDT 2023
+# Archived TODOs  -  Sat Jul  1 06:22:47 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -43,6 +43,7 @@
 [ ] Fix misc  
 [ ] fix misc/bin/datauri %s error message  
 [ ] Fix misc copy-templates alias  
+[ ] Fix myemail web addresses  
 [ ] fix myssh/show config  
 [ ] fix nginx http proxy port in dockermgr install script  
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
