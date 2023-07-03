@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Jul  1 07:04:00 PM EDT 2023
+# Archived TODOs  -  Mon Jul  3 07:03:32 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -23,6 +23,7 @@
 [ ] Create kvmmgr script to automate installs  
 [ ] Create laravel image
 [ ] fix a 2 second delete in rmd  
+[ ] Fix buildx logging repo dir env  
 [ ] Fix color output_2 in @casjay-dotfiles/scripts/templates  
 [ ] fix dictionary no input  
 [ ] Fix docker ca image scripts
