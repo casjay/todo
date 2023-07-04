@@ -1,4 +1,4 @@
-# My TODO list  -  Mon Jul  3 07:03:32 PM EDT 2023
+# My TODO list  -  Tue Jul  4 11:01:52 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -23,3 +23,4 @@
 [ ] Add local option to weather script  
 [ ] Fix myemail web addresses  
 [ ] Fix buildx logging repo dir env  
+[ ] fix host listen address in dockermgr install script   
