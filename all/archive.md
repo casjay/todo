@@ -1,4 +1,4 @@
-# Archived TODOs  -  Tue Jul  4 11:01:52 AM EDT 2023
+# Archived TODOs  -  Tue Jul  4 11:24:58 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -28,6 +28,7 @@
 [ ] fix dictionary no input  
 [ ] Fix docker ca image scripts
 [ ] Fix docker image html templates and add DocRoot to index pages
+[ ] Fix dockermgr README projectname  
 [ ] Fix dockermgr readme variables
 [ ] Fix dockermgr src readme template
 [ ] fix gen-* copy template messages  
