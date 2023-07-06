@@ -1,4 +1,4 @@
-# My TODO list  -  Tue Jul  4 11:24:58 AM EDT 2023
+# My TODO list  -  Thu Jul  6 11:17:12 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -21,7 +21,4 @@
 [ ] Fix sxhkd installer duplicates
 [ ] Fix misc copy-templates alias  
 [ ] Add local option to weather script  
-[ ] Fix myemail web addresses  
 [ ] Fix buildx logging repo dir env  
-[ ] fix host listen address in dockermgr install script   
-[ ] Fix dockermgr README projectname  

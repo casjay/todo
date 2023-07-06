@@ -1,4 +1,4 @@
-# Archived TODOs  -  Tue Jul  4 11:24:58 AM EDT 2023
+# Archived TODOs  -  Thu Jul  6 11:17:12 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -92,6 +92,7 @@
 [x] Fix color output_2 in @casjay-dotfiles/scripts/templates  
 [x] fix dictionary no input  
 [x] Fix docker image html templates and add DocRoot to index pages
+[x] Fix dockermgr README projectname  
 [x] Fix dockermgr readme variables
 [x] Fix dockermgr src readme template
 [x] fix gen-* copy template messages  
@@ -104,7 +105,9 @@
 [x] fix gitadmin org url for auth users  
 [x] fix gitcommit: line 752: : No such file or directory  
 [x] Fix grep commands in todo  
+[x] fix host listen address in dockermgr install script   
 [x] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
+[x] Fix myemail web addresses  
 [x] fix myssh/show config  
 [x] fix nginx http proxy port in dockermgr install script  
 [x] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
