@@ -1,4 +1,4 @@
-# Archived TODOs  -  Thu Jul  6 11:17:12 AM EDT 2023
+# Archived TODOs  -  Thu Jul 13 01:27:19 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -18,6 +18,7 @@
 [ ] Add sanity check to gen-completion  
 [ ] Add template repo env to gen-* scripts  
 [ ] Add temp volume to dockermgr/prune  
+[ ] Add utils and secure download dirs to latest-iso  
 [ ] Add write to usb in latest iso  
 [ ] Create django image
 [ ] Create kvmmgr script to automate installs  
