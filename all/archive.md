@@ -1,4 +1,4 @@
-# Archived TODOs  -  Fri Jul 14 11:15:24 AM EDT 2023
+# Archived TODOs  -  Fri 14 Jul 2023 04:38:17 PM EDT
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -34,6 +34,7 @@
 [ ] Fix dockermgr README projectname  
 [ ] Fix dockermgr readme variables
 [ ] Fix dockermgr src readme template
+[ ] Fix error in pkmgr on line 392
 [ ] fix gen-* copy template messages  
 [ ] fix gen-dockerfile/gen-script output messages to say creating name and created file location
 [ ] fix gen-html copy file message
