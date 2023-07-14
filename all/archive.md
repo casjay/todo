@@ -1,4 +1,4 @@
-# Archived TODOs  -  Fri Jul 14 11:12:34 AM EDT 2023
+# Archived TODOs  -  Fri Jul 14 11:15:24 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -10,6 +10,7 @@
 [ ] add disable option to jykell template
 [ ] add free space to dockermgr rm  
 [ ] Add github release to pkmgr  
+[ ] Add import command to pkmgr  
 [ ] Add local option to weather script  
 [ ] Add multiboot usb to usb-writer script  
 [ ] add passwd root to gistmgr/archonarm/README.md  
