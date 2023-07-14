@@ -1,4 +1,4 @@
-# My TODO list  -  Thu Jul 13 01:27:19 PM EDT 2023
+# My TODO list  -  Fri Jul 14 11:12:34 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -23,3 +23,4 @@
 [ ] Add local option to weather script  
 [ ] Fix buildx logging repo dir env  
 [ ] Add utils and secure download dirs to latest-iso  
+[ ] Add retries to latest-iso  
