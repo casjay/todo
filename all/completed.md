@@ -1,13 +1,16 @@
-# Completed TODOs  -  Fri 14 Jul 2023 04:38:17 PM EDT
+# Completed TODOs  -  Fri Jul 14 06:10:31 PM EDT 2023
 
 [x] Add db to tmux-new node  
 [x] add disable option to jykell template
 [x] add free space to dockermgr rm  
+[x] Add import command to pkmgr  
+[x] Add local option to weather script  
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
 [x] Add reboot prompt to setup_kvm  
 [x] Add sanity check to gen-completion  
 [x] Add temp volume to dockermgr/prune  
+[x] Add utils and secure download dirs to latest-iso  
 [x] fix a 2 second delete in rmd  
 [x] fix autostart.sh for desktopmgr/*
 [x] Fix color output_2 in @casjay-dotfiles/scripts/templates  
@@ -16,6 +19,7 @@
 [x] Fix dockermgr README projectname  
 [x] Fix dockermgr readme variables
 [x] Fix dockermgr src readme template
+[x] Fix error in pkmgr on line 392
 [x] fix gen-* copy template messages  
 [x] fix gen-dockerfile/gen-script output messages to say creating name and created file location
 [x] fix gen-html copy file message

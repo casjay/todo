@@ -1,4 +1,4 @@
-# My TODO list  -  Fri 14 Jul 2023 04:38:17 PM EDT
+# My TODO list  -  Fri Jul 14 06:10:31 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -20,9 +20,5 @@
 [ ] Fix pkmgr/apt/misc python  
 [ ] Fix sxhkd installer duplicates
 [ ] Fix misc copy-templates alias  
-[ ] Add local option to weather script  
 [ ] Fix buildx logging repo dir env  
-[ ] Add utils and secure download dirs to latest-iso  
 [ ] Add retries to latest-iso  
-[ ] Add import command to pkmgr  
-[ ] Fix error in pkmgr on line 392
