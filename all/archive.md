@@ -1,4 +1,4 @@
-# Archived TODOs  -  Fri Jul 14 06:10:31 PM EDT 2023
+# Archived TODOs  -  Sat Jul 22 09:05:29 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -78,6 +78,7 @@
 [ ] set gitignore default  
 [ ] todo gitignore  
 [ ] update fish env variables  
+[ ] Update pkmgr keys completions  
 [ ] update setup_powershell: https://learn.microsoft.com/en-us/powershell/scripting/install/install-other-linux?view=powershell-7.3  
 [ ] Update systemmgr install scripts  
 [ ] updatetodo  
