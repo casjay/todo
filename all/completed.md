@@ -1,4 +1,4 @@
-# Completed TODOs  -  Sat Jul 22 01:20:55 PM EDT 2023
+# Completed TODOs  -  Sat Jul 22 02:44:14 PM EDT 2023
 
 [x] Add db to tmux-new node  
 [x] add disable option to jykell template
@@ -8,9 +8,11 @@
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
 [x] Add reboot prompt to setup_kvm  
+[x] Add retries to latest-iso  
 [x] Add sanity check to gen-completion  
 [x] Add temp volume to dockermgr/prune  
 [x] Add utils and secure download dirs to latest-iso  
+[x] Add version check and add --break-system-packages to pkmgr/pip  
 [x] fix a 2 second delete in rmd  
 [x] fix autostart.sh for desktopmgr/*
 [x] Fix color output_2 in @casjay-dotfiles/scripts/templates  
@@ -54,5 +56,6 @@
 [x] set gitignore default  
 [x] todo gitignore  
 [x] update fish env variables  
+[x] Update pkmgr keys completions  
 [x] update setup_powershell: https://learn.microsoft.com/en-us/powershell/scripting/install/install-other-linux?view=powershell-7.3  
 [x] Update todo archiving  
