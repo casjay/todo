@@ -1,4 +1,4 @@
-# My TODO list  -  Sat Jul 29 10:54:43 PM EDT 2023
+# My TODO list  -  Sat Jul 29 11:43:45 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -23,3 +23,4 @@
 [ ] Fix buildx logging repo dir env  
 [ ] Add .nvmrc check to bash prompt fnm/nvm  
 [ ] Add remote repo check to gitcommit  
+[ ] fix vercel-cli remove command - vercel ls 2>&1 | grep http.*: |awk {print }|grep -v ^|grep -v "$(head -n1)"  

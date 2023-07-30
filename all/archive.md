@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Jul 29 10:54:43 PM EDT 2023
+# Archived TODOs  -  Sat Jul 29 11:43:45 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -65,6 +65,7 @@
 [ ] Fix sxhkd installer duplicates
 [ ] Fix todo git import error  
 [ ] Fix/Update gitcommit/git-changlog  
+[ ] fix vercel-cli remove command - vercel ls 2>&1 | grep http.*: |awk {print }|grep -v ^|grep -v "$(head -n1)"  
 [ ] Fix version functions in @casjay-dotfiles/scripts  
 [ ] Fix weather location/VARIABLES  
 [ ] Fix ytdv default settings  
