@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Jul 22 02:44:14 PM EDT 2023
+# Archived TODOs  -  Sat Jul 29 10:52:57 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -13,6 +13,7 @@
 [ ] Add import command to pkmgr  
 [ ] Add local option to weather script  
 [ ] Add multiboot usb to usb-writer script  
+[ ] Add .nvmrc check to bash prompt fnm/nvm  
 [ ] add passwd root to gistmgr/archonarm/README.md  
 [ ] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
 [ ] Add reboot prompt to setup_kvm  
