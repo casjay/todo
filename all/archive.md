@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Jul 29 11:43:45 PM EDT 2023
+# Archived TODOs  -  Thu Aug  3 08:42:31 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -25,6 +25,7 @@
 [ ] Add utils and secure download dirs to latest-iso  
 [ ] Add version check and add --break-system-packages to pkmgr/pip  
 [ ] Add write to usb in latest iso  
+[ ] Change host to ip in /etc/nginx/conf.d/default.conf  
 [ ] Create django image
 [ ] Create kvmmgr script to automate installs  
 [ ] Create laravel image

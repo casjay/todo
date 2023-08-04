@@ -1,4 +1,4 @@
-# My TODO list  -  Sat Jul 29 11:43:45 PM EDT 2023
+# My TODO list  -  Thu Aug  3 08:42:31 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -24,3 +24,4 @@
 [ ] Add .nvmrc check to bash prompt fnm/nvm  
 [ ] Add remote repo check to gitcommit  
 [ ] fix vercel-cli remove command - vercel ls 2>&1 | grep http.*: |awk {print }|grep -v ^|grep -v "$(head -n1)"  
+[ ] Change host to ip in /etc/nginx/conf.d/default.conf  

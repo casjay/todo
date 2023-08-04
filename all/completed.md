@@ -1,4 +1,4 @@
-# Completed TODOs  -  Sat Jul 29 11:43:45 PM EDT 2023
+# Completed TODOs  -  Thu Aug  3 08:42:31 PM EDT 2023
 
 [x] Add db to tmux-new node  
 [x] add disable option to jykell template
