@@ -1,4 +1,4 @@
-# Archived TODOs  -  Thu Aug  3 08:42:31 PM EDT 2023
+# Archived TODOs  -  Fri Aug  4 07:15:30 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -40,6 +40,7 @@
 [ ] Fix dockermgr src readme template
 [ ] Fix error in pkmgr on line 392
 [ ] fix gen-* copy template messages  
+[ ] Fix gen-dns variables  
 [ ] fix gen-dockerfile/gen-script output messages to say creating name and created file location
 [ ] fix gen-html copy file message
 [ ] Fix gen-script backup config to move .bak to date.bak  
