@@ -1,4 +1,4 @@
-# Archived TODOs  -  Fri Aug  4 07:15:30 PM EDT 2023
+# Archived TODOs  -  Sat Aug 12 05:55:07 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -8,6 +8,7 @@
 [ ] Add db to tmux-new node  
 [ ] Add diff: git diff HEAD^ HEAD -- file|grep '@@'|head -n1
 [ ] add disable option to jykell template
+[ ] Add ffmpeg check to ytdv
 [ ] add free space to dockermgr rm  
 [ ] Add github release to pkmgr  
 [ ] Add import command to pkmgr  
