@@ -26,3 +26,5 @@
 [ ] fix vercel-cli remove command - vercel ls 2>&1 | grep http.*: |awk {print }|grep -v ^|grep -v "$(head -n1)"  
 [ ] Change host to ip in /etc/nginx/conf.d/default.conf  
 [ ] Fix gen-dns variables  
+[ ] Add ffmpeg check to ytdv
+
