@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Aug 12 09:02:46 PM EDT 2023
+# Archived TODOs  -  Sat Aug 12 09:14:46 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -63,6 +63,7 @@
 [ ] fix nginx http proxy port in dockermgr install script  
 [ ] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
 [ ] Fix pkmgr/apt/misc python  
+[ ] fix pkmgr silent install yum/dnf  
 [ ] fix proxmox-cli ssh connection error
 [ ] Fix run_server command check  
 [ ] fix shortenurl timeout  
