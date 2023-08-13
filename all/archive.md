@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Aug 12 09:14:46 PM EDT 2023
+# Archived TODOs  -  Sun Aug 13 06:34:37 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -49,6 +49,7 @@
 [ ] Fix gen-script findfile  
 [ ] Fix gen-script new: set dir and name with basename and dirname  
 [ ] fix gitadmin org url for auth users  
+[ ] Fix gitadmin setup automated function - no setting remote
 [ ] fix gitcommit: line 752: : No such file or directory  
 [ ] Fix grep commands in todo  
 [ ] fix host listen address in dockermgr install script   
