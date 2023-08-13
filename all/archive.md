@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Aug 12 05:55:07 PM EDT 2023
+# Archived TODOs  -  Sat Aug 12 08:50:22 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -53,6 +53,7 @@
 [ ] Fix grep commands in todo  
 [ ] fix host listen address in dockermgr install script   
 [ ] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
+[ ] Fix mgr install function  
 [ ] Fix misc  
 [ ] fix misc/bin/datauri %s error message  
 [ ] Fix misc copy-templates alias  

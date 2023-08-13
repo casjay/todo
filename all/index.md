@@ -1,4 +1,4 @@
-# My TODO list  -  Sat Aug 12 05:55:07 PM EDT 2023
+# My TODO list  -  Sat Aug 12 08:50:22 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -27,3 +27,4 @@
 [ ] Change host to ip in /etc/nginx/conf.d/default.conf  
 [ ] Fix gen-dns variables  
 [ ] Add ffmpeg check to ytdv
+[ ] Fix mgr install function  
