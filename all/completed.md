@@ -1,4 +1,4 @@
-# Completed TODOs  -  Sun Aug 13 08:30:20 PM EDT 2023
+# Completed TODOs  -  Sun Aug 13 11:12:54 PM EDT 2023
 
 [x] Add db to tmux-new node  
 [x] add disable option to jykell template
@@ -9,6 +9,7 @@
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
 [x] Add reboot prompt to setup_kvm  
+[x] Add remote repo check to gitcommit  
 [x] Add retries to latest-iso  
 [x] Add sanity check to gen-completion  
 [x] Add temp volume to dockermgr/prune  
@@ -25,6 +26,7 @@
 [x] Fix dockermgr src readme template
 [x] Fix error in pkmgr on line 392
 [x] fix gen-* copy template messages  
+[x] Fix gen-dns variables  
 [x] fix gen-dockerfile/gen-script output messages to say creating name and created file location
 [x] fix gen-html copy file message
 [x] Fix gen-script backup config to move .bak to date.bak  
@@ -37,10 +39,13 @@
 [x] Fix grep commands in todo  
 [x] fix host listen address in dockermgr install script   
 [x] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
+[x] Fix misc copy-templates alias  
 [x] Fix myemail web addresses  
+[x] Fix myssh connect to host command  
 [x] fix myssh/show config  
 [x] fix nginx http proxy port in dockermgr install script  
 [x] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
+[x] Fix pkmgr/apt/misc python  
 [x] fix pkmgr silent install yum/dnf  
 [x] fix proxmox-cli ssh connection error
 [x] Fix run_server command check  

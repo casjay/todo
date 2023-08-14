@@ -1,9 +1,10 @@
-# Archived TODOs  -  Sun Aug 13 08:30:20 PM EDT 2023
+# Archived TODOs  -  Sun Aug 13 11:12:54 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
+[ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'  
 [ ] add count to todo - grep -nc ^ $TODO_HOME/  
 [ ] Add db to tmux-new node  
 [ ] Add diff: git diff HEAD^ HEAD -- file|grep '@@'|head -n1
@@ -28,13 +29,16 @@
 [ ] Add write to usb in latest iso  
 [ ] Change host to ip in /etc/nginx/conf.d/default.conf  
 [ ] Create django image
+[ ] Create django image  
 [ ] Create kvmmgr script to automate installs  
 [ ] Create laravel image
+[ ] Create laravel image  
 [ ] fix a 2 second delete in rmd  
 [ ] Fix buildx logging repo dir env  
 [ ] Fix color output_2 in @casjay-dotfiles/scripts/templates  
 [ ] fix dictionary no input  
 [ ] Fix docker ca image scripts
+[ ] Fix docker ca image scripts  
 [ ] Fix docker image html templates and add DocRoot to index pages
 [ ] Fix dockermgr README projectname  
 [ ] Fix dockermgr readme variables
@@ -104,6 +108,7 @@
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
 [x] Add reboot prompt to setup_kvm  
+[x] Add remote repo check to gitcommit  
 [x] Add retries to latest-iso  
 [x] Add sanity check to gen-completion  
 [x] Add temp volume to dockermgr/prune  
@@ -120,6 +125,7 @@
 [x] Fix dockermgr src readme template
 [x] Fix error in pkmgr on line 392
 [x] fix gen-* copy template messages  
+[x] Fix gen-dns variables  
 [x] fix gen-dockerfile/gen-script output messages to say creating name and created file location
 [x] fix gen-html copy file message
 [x] Fix gen-script backup config to move .bak to date.bak  
@@ -132,10 +138,13 @@
 [x] Fix grep commands in todo  
 [x] fix host listen address in dockermgr install script   
 [x] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
+[x] Fix misc copy-templates alias  
 [x] Fix myemail web addresses  
+[x] Fix myssh connect to host command  
 [x] fix myssh/show config  
 [x] fix nginx http proxy port in dockermgr install script  
 [x] Fix PATHS for getopts [[ -d "/usr/local/opt/gnu-getopt/bin" ]] &&  
+[x] Fix pkmgr/apt/misc python  
 [x] fix pkmgr silent install yum/dnf  
 [x] fix proxmox-cli ssh connection error
 [x] Fix run_server command check  
