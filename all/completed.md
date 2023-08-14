@@ -1,4 +1,4 @@
-# Completed TODOs  -  Mon Aug 14 04:46:32 PM EDT 2023
+# Completed TODOs  -  Mon Aug 14 05:31:03 PM EDT 2023
 
 [x] Add db to tmux-new node  
 [x] add disable option to jykell template
@@ -18,6 +18,7 @@
 [x] Change host to ip in /etc/nginx/conf.d/default.conf  
 [x] fix a 2 second delete in rmd  
 [x] fix autostart.sh for desktopmgr/*
+[x] Fix buildx logging repo dir env  
 [x] Fix color output_2 in @casjay-dotfiles/scripts/templates  
 [x] fix dictionary no input  
 [x] Fix docker image html templates and add DocRoot to index pages
@@ -51,6 +52,7 @@
 [x] Fix run_server command check  
 [x] fix shortenurl timeout  
 [x] Fix ssh_key message in centos template
+[x] Fix sxhkd installer duplicates
 [x] Fix todo git import error  
 [x] Fix/Update gitcommit/git-changlog  
 [x] Fix version functions in @casjay-dotfiles/scripts  
