@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sun Aug 13 11:12:54 PM EDT 2023
+# Archived TODOs  -  Mon Aug 14 04:46:32 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -58,6 +58,7 @@
 [ ] Fix grep commands in todo  
 [ ] fix host listen address in dockermgr install script   
 [ ] fix https://github.com/CasjaysDev/rpm-devel/raw/main/docs/ZREPO/RHEL/rhel
+[ ] Fix LOG Var and output in buildx all  
 [ ] Fix mgr install function  
 [ ] Fix misc  
 [ ] fix misc/bin/datauri %s error message  

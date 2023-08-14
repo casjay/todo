@@ -1,4 +1,4 @@
-# My TODO list  -  Sun Aug 13 11:12:54 PM EDT 2023
+# My TODO list  -  Mon Aug 14 04:46:32 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'  
@@ -22,3 +22,4 @@
 [ ] Add .nvmrc check to bash prompt fnm/nvm  
 [ ] fix vercel-cli remove command - vercel ls 2>&1 | grep http.*: |awk {print }|grep -v ^|grep -v "$(head -n1)"  
 [ ] Fix mgr install function  
+[ ] Fix LOG Var and output in buildx all  
