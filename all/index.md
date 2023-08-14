@@ -1,4 +1,4 @@
-# My TODO list  -  Sun Aug 13 06:34:37 PM EDT 2023
+# My TODO list  -  Sun Aug 13 08:30:20 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
@@ -24,10 +24,6 @@
 [ ] Add .nvmrc check to bash prompt fnm/nvm  
 [ ] Add remote repo check to gitcommit  
 [ ] fix vercel-cli remove command - vercel ls 2>&1 | grep http.*: |awk {print }|grep -v ^|grep -v "$(head -n1)"  
-[ ] Change host to ip in /etc/nginx/conf.d/default.conf  
 [ ] Fix gen-dns variables  
-[ ] Add ffmpeg check to ytdv
 [ ] Fix mgr install function  
 [ ] Fix myssh connect to host command  
-[ ] fix pkmgr silent install yum/dnf  
-[ ] Fix gitadmin setup automated function - no setting remote
