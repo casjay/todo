@@ -1,4 +1,4 @@
-# Archived TODOs  -  Mon Aug 14 05:31:03 PM EDT 2023
+# Archived TODOs  -  Fri Aug 18 03:36:58 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -22,6 +22,7 @@
 [ ] Add remote repo check to gitcommit  
 [ ] Add retries to latest-iso  
 [ ] Add sanity check to gen-completion  
+[ ] Add /sys,/proc,/dev mount options to dockermgr template  
 [ ] Add template repo env to gen-* scripts  
 [ ] Add temp volume to dockermgr/prune  
 [ ] Add utils and secure download dirs to latest-iso  
