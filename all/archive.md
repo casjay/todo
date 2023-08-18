@@ -1,4 +1,4 @@
-# Archived TODOs  -  Fri Aug 18 03:36:58 AM EDT 2023
+# Archived TODOs  -  Fri Aug 18 03:38:33 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -25,6 +25,7 @@
 [ ] Add /sys,/proc,/dev mount options to dockermgr template  
 [ ] Add template repo env to gen-* scripts  
 [ ] Add temp volume to dockermgr/prune  
+[ ] Add /tmp/init check to docker-entrypoint template  
 [ ] Add utils and secure download dirs to latest-iso  
 [ ] Add version check and add --break-system-packages to pkmgr/pip  
 [ ] Add write to usb in latest iso  
