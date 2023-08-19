@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Aug 19 01:42:36 AM EDT 2023
+# Archived TODOs  -  Sat Aug 19 02:01:09 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -19,6 +19,7 @@
 [ ] add passwd root to gistmgr/archonarm/README.md  
 [ ] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
 [ ] Add reboot prompt to setup_kvm  
+[ ] Add reinit to buildx after waiting for prev build  
 [ ] Add remote repo check to gitcommit  
 [ ] Add retries to latest-iso  
 [ ] Add sanity check to gen-completion  
