@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Aug 19 02:02:58 AM EDT 2023
+# Archived TODOs  -  Sat Aug 19 02:08:46 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -75,6 +75,7 @@
 [ ] Fix pkmgr/apt/misc python  
 [ ] fix pkmgr silent install yum/dnf  
 [ ] fix proxmox-cli ssh connection error
+[ ] fix rpm location in .rpmmacros  
 [ ] Fix run_server command check  
 [ ] fix shortenurl timeout  
 [ ] Fix ssh_key message in centos template
