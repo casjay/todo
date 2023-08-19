@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Aug 19 02:08:46 AM EDT 2023
+# Archived TODOs  -  Sat Aug 19 10:13:35 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -111,9 +111,11 @@
 [x] add free space to dockermgr rm  
 [x] Add import command to pkmgr  
 [x] Add local option to weather script  
+[x] add loop to buildx to build more that one but not all  
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
 [x] Add reboot prompt to setup_kvm  
+[x] Add reinit to buildx after waiting for prev build  
 [x] Add remote repo check to gitcommit  
 [x] Add retries to latest-iso  
 [x] Add sanity check to gen-completion  
@@ -156,6 +158,7 @@
 [x] Fix pkmgr/apt/misc python  
 [x] fix pkmgr silent install yum/dnf  
 [x] fix proxmox-cli ssh connection error
+[x] fix rpm location in .rpmmacros  
 [x] Fix run_server command check  
 [x] fix shortenurl timeout  
 [x] Fix ssh_key message in centos template
