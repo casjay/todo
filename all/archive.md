@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Aug 19 02:01:09 AM EDT 2023
+# Archived TODOs  -  Sat Aug 19 02:02:58 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -14,6 +14,7 @@
 [ ] Add github release to pkmgr  
 [ ] Add import command to pkmgr  
 [ ] Add local option to weather script  
+[ ] add loop to buildx to build more that one but not all  
 [ ] Add multiboot usb to usb-writer script  
 [ ] Add .nvmrc check to bash prompt fnm/nvm  
 [ ] add passwd root to gistmgr/archonarm/README.md  

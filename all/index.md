@@ -1,4 +1,4 @@
-# My TODO list  -  Sat Aug 19 02:01:09 AM EDT 2023
+# My TODO list  -  Sat Aug 19 02:02:58 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'  
@@ -20,3 +20,4 @@
 [ ] Add .nvmrc check to bash prompt fnm/nvm  
 [ ] Fix mgr install function  
 [ ] Add reinit to buildx after waiting for prev build  
+[ ] add loop to buildx to build more that one but not all  
