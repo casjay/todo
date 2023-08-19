@@ -1,4 +1,4 @@
-# My TODO list  -  Fri Aug 18 03:38:33 AM EDT 2023
+# My TODO list  -  Sat Aug 19 01:42:36 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'  
@@ -19,5 +19,3 @@
 [ ] Fix misc  
 [ ] Add .nvmrc check to bash prompt fnm/nvm  
 [ ] Fix mgr install function  
-[ ] Add /sys,/proc,/dev mount options to dockermgr template  
-[ ] Add /tmp/init check to docker-entrypoint template  

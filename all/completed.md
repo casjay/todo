@@ -1,4 +1,4 @@
-# Completed TODOs  -  Fri Aug 18 03:38:33 AM EDT 2023
+# Completed TODOs  -  Sat Aug 19 01:42:36 AM EDT 2023
 
 [x] Add db to tmux-new node  
 [x] add disable option to jykell template
@@ -12,7 +12,9 @@
 [x] Add remote repo check to gitcommit  
 [x] Add retries to latest-iso  
 [x] Add sanity check to gen-completion  
+[x] Add /sys,/proc,/dev mount options to dockermgr template  
 [x] Add temp volume to dockermgr/prune  
+[x] Add /tmp/init check to docker-entrypoint template  
 [x] Add utils and secure download dirs to latest-iso  
 [x] Add version check and add --break-system-packages to pkmgr/pip  
 [x] Change host to ip in /etc/nginx/conf.d/default.conf  
