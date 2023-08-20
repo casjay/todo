@@ -1,4 +1,4 @@
-# My TODO list  -  Sun Aug 20 01:52:22 AM EDT 2023
+# My TODO list  -  Sun Aug 20 01:53:52 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'  
@@ -22,3 +22,4 @@
 [ ] add proxmox support to myssh  
 [ ] fix error on line 303 in blog script  
 [ ] fix error on line 1525 in dockermgr [return]  
+[ ] fix dockermgr api auth info: returned error: 401  

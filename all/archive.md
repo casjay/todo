@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sun Aug 20 01:52:22 AM EDT 2023
+# Archived TODOs  -  Sun Aug 20 01:53:52 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -45,6 +45,7 @@
 [ ] Fix docker ca image scripts
 [ ] Fix docker ca image scripts  
 [ ] Fix docker image html templates and add DocRoot to index pages
+[ ] fix dockermgr api auth info: returned error: 401  
 [ ] Fix dockermgr README projectname  
 [ ] Fix dockermgr readme variables
 [ ] Fix dockermgr src readme template
