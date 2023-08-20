@@ -1,4 +1,4 @@
-# Completed TODOs  -  Sun Aug 20 01:53:52 AM EDT 2023
+# Completed TODOs  -  Sun Aug 20 03:01:45 PM EDT 2023
 
 [x] Add db to tmux-new node  
 [x] add disable option to jykell template
@@ -9,6 +9,7 @@
 [x] add loop to buildx to build more that one but not all  
 [x] add passwd root to gistmgr/archonarm/README.md  
 [x] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
+[x] add proxmox support to myssh  
 [x] Add reboot prompt to setup_kvm  
 [x] Add reinit to buildx after waiting for prev build  
 [x] Add remote repo check to gitcommit  
@@ -26,10 +27,13 @@
 [x] Fix color output_2 in @casjay-dotfiles/scripts/templates  
 [x] fix dictionary no input  
 [x] Fix docker image html templates and add DocRoot to index pages
+[x] fix dockermgr api auth info: returned error: 401  
 [x] Fix dockermgr README projectname  
 [x] Fix dockermgr readme variables
 [x] Fix dockermgr src readme template
 [x] Fix error in pkmgr on line 392
+[x] fix error on line 1525 in dockermgr [return]  
+[x] fix error on line 303 in blog script  
 [x] fix gen-* copy template messages  
 [x] Fix gen-dns variables  
 [x] fix gen-dockerfile/gen-script output messages to say creating name and created file location
