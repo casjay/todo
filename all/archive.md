@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sat Aug 19 10:13:35 AM EDT 2023
+# Archived TODOs  -  Sun Aug 20 01:10:36 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -19,6 +19,7 @@
 [ ] Add .nvmrc check to bash prompt fnm/nvm  
 [ ] add passwd root to gistmgr/archonarm/README.md  
 [ ] Add pfsense to latest-iso: https://atxfiles.netgate.com/mirror/downloads  
+[ ] add proxmox support to myssh  
 [ ] Add reboot prompt to setup_kvm  
 [ ] Add reinit to buildx after waiting for prev build  
 [ ] Add remote repo check to gitcommit  
