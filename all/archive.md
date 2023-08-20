@@ -1,4 +1,4 @@
-# Archived TODOs -   Sun Aug 20 05:22:23 PM EDT 2023
+# Archived TODOs -   Sun Aug 20 05:23:41 PM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add API to notes app
@@ -27,6 +27,7 @@
 [x] add disable option to jykell template
 [x] Add ffmpeg check to ytdv
 [x] add free space to dockermgr rm  
+[x] add git import to scratchpad
 [x] Add import command to pkmgr  
 [x] Add local option to weather script  
 [x] add loop to buildx to build more that one but not all  
