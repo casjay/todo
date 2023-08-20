@@ -1,17 +1,21 @@
-# Archived TODOs  -  Sun Aug 20 03:01:45 PM EDT 2023
+# Archived TODOs  -  Sun Aug 20 04:01:24 PM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
 [ ] add all commands to dockermgr script  
+[ ] Add API to notes app
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'  
 [ ] add count to todo - grep -nc ^ $TODO_HOME/  
 [ ] Add db to tmux-new node  
 [ ] Add diff: git diff HEAD^ HEAD -- file|grep '@@'|head -n1
 [ ] add disable option to jykell template
+[ ] Add dockermgr option to keep or delete test containers
 [ ] Add ffmpeg check to ytdv
 [ ] add free space to dockermgr rm  
 [ ] Add github release to pkmgr  
+[ ] add git import to scratchpad
+[ ] Add host check to notes server
 [ ] Add import command to pkmgr  
 [ ] Add local option to weather script  
 [ ] add loop to buildx to build more that one but not all  
