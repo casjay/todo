@@ -1,4 +1,4 @@
-# My TODO list  -  Sun Aug 20 01:10:36 AM EDT 2023
+# My TODO list  -  Sun Aug 20 01:39:09 AM EDT 2023
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'  
@@ -20,3 +20,4 @@
 [ ] Add .nvmrc check to bash prompt fnm/nvm  
 [ ] Fix mgr install function  
 [ ] add proxmox support to myssh  
+[ ] fix error on line 303 in blog script  
