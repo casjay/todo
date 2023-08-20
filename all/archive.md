@@ -1,4 +1,4 @@
-# Archived TODOs  -  Sun Aug 20 01:39:09 AM EDT 2023
+# Archived TODOs  -  Sun Aug 20 01:52:22 AM EDT 2023
 
 =======
 >>>>>>> 36505129e84f6bc9af4d831bcada59482f14ada3
@@ -49,6 +49,7 @@
 [ ] Fix dockermgr readme variables
 [ ] Fix dockermgr src readme template
 [ ] Fix error in pkmgr on line 392
+[ ] fix error on line 1525 in dockermgr [return]  
 [ ] fix error on line 303 in blog script  
 [ ] fix gen-* copy template messages  
 [ ] Fix gen-dns variables  
