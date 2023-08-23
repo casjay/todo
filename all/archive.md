@@ -1,4 +1,4 @@
-# Archived TODOs -   Sun Aug 20 05:23:41 PM EDT 2023
+# Archived TODOs - Tue Aug 22 11:16:53 PM EDT 2023  
 
 [ ] add all commands to dockermgr script  
 [ ] Add API to notes app
@@ -25,6 +25,7 @@
 [ ] work on neovim configuration  
 [x] Add db to tmux-new node  
 [x] add disable option to jykell template
+[x] Add dockermgr option to keep or delete test containers
 [x] Add ffmpeg check to ytdv
 [x] add free space to dockermgr rm  
 [x] add git import to scratchpad
