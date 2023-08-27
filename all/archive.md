@@ -1,4 +1,4 @@
-# Archived TODOs - Sun Aug 27 01:49:47 AM EDT 2023  
+# Archived TODOs - Sun Aug 27 01:51:38 AM EDT 2023  
 
 [ ] add all commands to dockermgr script  
 [ ] Add API to notes app
@@ -21,6 +21,7 @@
 [ ] Fix mgr install function  
 [ ] Fix misc  
 [ ] fix misc/bin/datauri %s error message  
+[ ] Migrate dockermgr manifest to buildx  
 [ ] Refactor devenmgr script and add more projects
 [ ] Update systemmgr install scripts  
 [ ] work on neovim configuration  
