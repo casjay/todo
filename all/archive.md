@@ -1,4 +1,4 @@
-# Archived TODOs - Tue Aug 22 11:16:53 PM EDT 2023  
+# Archived TODOs - Sun Aug 27 01:49:47 AM EDT 2023  
 
 [ ] add all commands to dockermgr script  
 [ ] Add API to notes app
@@ -11,6 +11,7 @@
 [ ] Add host check to notes server
 [ ] Add multiboot usb to usb-writer script  
 [ ] Add .nvmrc check to bash prompt fnm/nvm  
+[ ] Add stdin to dockermgr manifest  
 [ ] Add template repo env to gen-* scripts  
 [ ] Add write to usb in latest iso  
 [ ] Create django image  

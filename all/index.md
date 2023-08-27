@@ -1,4 +1,4 @@
-# My TODO list - Tue Aug 22 11:16:53 PM EDT 2023  
+# My TODO list - Sun Aug 27 01:49:47 AM EDT 2023  
 
 [ ] add all commands to dockermgr script  
 [ ] Add CHANGELOG to header git log | grep cdd|head -n1|sed 's|^[[:space:]]||g;s|:. | |g'  
@@ -21,3 +21,4 @@
 [ ] Fix mgr install function  
 [ ] Add API to notes app
 [ ] Add host check to notes server
+[ ] Add stdin to dockermgr manifest  
